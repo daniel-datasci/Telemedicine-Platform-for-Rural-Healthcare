@@ -3,21 +3,14 @@
 
 <img src="https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg" alt="Girl in a jacket" width="250" height="250">
 
-Name: Mazharul Hasan 
-
-Email: mazhar11808006@gmail.com
-
-phone: +8801631981121
+Name: Mazharul Hasan (Data Engineer) 
+Name: Daniel Ifediba (Data Scientist)
+Name: Joseph Aromeh (Data Scientist)
 
 ## Project Title: Telemedicine-smart-Doctor
 
 ## Project Short Description: 
 Telemedicine Smart Doctor Diagnose a patient by Machine Learning services by AWS. It takes Data from different medical organizations and stores medical information. In serious condition targets to remind and refer patients to the real doctor. The real doctor diagnostic results can help the system learns and improves the diagnostic accuracy with AWS Machine Learning. It will save money, time and strength of a people. At last we say, Telemadicine Smart Doctor make the world more safe.
-
-# Project Details:
-
-Whole information contain in this youtube link. 
-https://youtu.be/P6DePARkTgc
 
 
 ## It is the best way to treat the diseases before they attack
