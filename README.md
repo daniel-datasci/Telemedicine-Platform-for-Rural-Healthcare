@@ -1,28 +1,20 @@
 # Team Name : Dark Lite
 ## Team Members: 
-
-<img src="https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg" alt="Girl in a jacket" width="250" height="250">
-
-Name: Mazharul Hasan (Data Engineer) 
-Name: Daniel Ifediba (Data Scientist)
-Name: Joseph Aromeh (Data Scientist)
+- Name: Mazharul Hasan (Data Engineer) 
+- Name: Daniel Ifediba (Data Scientist)
+- Name: Joseph Aromeh (Data Scientist)
 
 ## Project Title: Telemedicine-smart-Doctor
 
 ## Project Short Description: 
 Telemedicine Smart Doctor Diagnose a patient by Machine Learning services by AWS. It takes Data from different medical organizations and stores medical information. In serious condition targets to remind and refer patients to the real doctor. The real doctor diagnostic results can help the system learns and improves the diagnostic accuracy with AWS Machine Learning. It will save money, time and strength of a people. At last we say, Telemadicine Smart Doctor make the world more safe.
 
+Designed and developed a telemedicine platform tailored for rural and underserved communities. The platform integrated video conferencing, electronic health records (EHR), and mobile apps to connect patients with healthcare providers remotely. It included features for remote consultations, prescription refills, and health monitoring. Implemented a user-friendly interface to ensure accessibility for patients with limited technology experience.
+
 
 ## It is the best way to treat the diseases before they attack
 
 My lab has built a Telemedicine Smart Doctor (Dr. Cloud) with Alexa Skill, Recognition, AWS IoT and Lambda in serverless architecture. Dr. Cloud can talk to patients interactively with Alexa skill, analyze the patient’s face with Rekognition, communicate to medical equipment through AWS IoT and use AR to provide visual instruction to the patient. The patient can do simple self-diagnostic at any time and anywhere!
-
-## Alexa Telemedicine Smart Doctor Skill
-
-This Alexa skill includes several workflows i.e. registration and diagnostic. The conversation is from a Medical School training script. The current response is not yet integration with AWS Machine Learning since we don’t have the suitable dataset in Bangladesh.
-
-By AWS IoT, it can control Web Cam and communication with the receiver. Data stored in DynamoDB, which includes medical record and patient information. It also sends subtitles and user demo video to AR Virtual Assistant.
-
 
 ## Overall Structure of Telemadicine Samrt Doctor
 ![AWS photo demo](https://user-images.githubusercontent.com/57343793/103148607-ccfb9c80-478b-11eb-8e31-c8498b3860b5.jpg)
